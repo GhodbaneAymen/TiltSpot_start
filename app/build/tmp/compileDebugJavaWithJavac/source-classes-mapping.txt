@@ -1,0 +1,4 @@
+com/example/android/tiltspot/MainActivity.java
+ com.example.android.tiltspot.MainActivity
+com/example/android/tiltspot/BuildConfig.java
+ com.example.android.tiltspot.BuildConfig
